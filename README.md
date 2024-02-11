@@ -31,3 +31,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anandakbari&show_icons=true&locale=en" alt="anandakbari" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anandakbari&" alt="anandakbari" /></p>
+
+<p>&nbsp;<img align="left" src="https://leetcode.card.workers.dev/anand134?theme=default&font=baloo&extension=null" alt="anandakbari" /></p>
