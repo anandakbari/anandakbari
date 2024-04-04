@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [BlogVista](https://github.com/anandakbari/BlogVista)
 
-- 🌱 I’m currently learning **Software Design and Architecture, Data Science and Docker**
+- 🌱 I’m currently learning **Software Design and Architecture and Microservices**
 
 - 👨‍💻 All of my projects are available at [https://github.com/anandakbari?tab=repositories](https://github.com/anandakbari?tab=repositories)
 
