@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [CoinQuest]()
 
-- - 🔭 Checkout my newest project [LiveDocs](https://livedocs-anand.vercel.app/sign-in)
+- 🔭 Checkout my newest project [LiveDocs](https://livedocs-anand.vercel.app/sign-in)
 
 - 🌱 I’m currently learning **Software Design and Architecture and Microservices**
 
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **anandakbari9@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1crk28ENqUzZ3Wor9WSdCwh8TrEpYY5vI/view?usp=sharing](https://drive.google.com/file/d/1crk28ENqUzZ3Wor9WSdCwh8TrEpYY5vI/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1crk28ENqUzZ3Wor9WSdCwh8TrEpYY5vI/view?usp=sharing)
 
 - ⚡ Fun fact **I am a huge Manchester City fan**
 
