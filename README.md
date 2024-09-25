@@ -8,7 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandakbari&label=Profile%20views&color=0e75b6&style=flat" alt="anandakbari" /> </p>
 
-- 🔭 I’m currently working on [BlogVista](https://github.com/anandakbari/BlogVista)
+- 🔭 I’m currently working on [CoinQuest]()
+
+- - 🔭 Checkout my newest project [LiveDocs](https://livedocs-anand.vercel.app/sign-in)
 
 - 🌱 I’m currently learning **Software Design and Architecture and Microservices**
 
