@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **anandakbari9@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1JUc5j4COoSWU9Z3sLVNUeS1hF3U8rN65/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ToM9lVbXtVlksptEu3cbNXjypAN29fQa/view?usp=sharing)
 
 - ⚡ Fun fact **I am a huge Manchester City fan**
 
